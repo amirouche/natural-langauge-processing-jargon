@@ -1,19 +1,19 @@
-* Natural Language Processing Jargon
+**Natural Language Processing Jargon**
 
-Natural Langauge Processing (NLP) is a wonderful science and
+*Natural Langauge Processing (NLP) is a wonderful science and
 engineering field, and its popularity has been increasing as a
 result. However, each comes with its own unique jargon and NLP is no
 exception. By providing a glossary, we hope to make learning NLP
-easier.
+easier.*
 
 This is a WIP; please feel free to send a PR ;)
 
-This is inspired from functional programming jargon
-cf. https://github.com/hemanth/functional-programming-jargon
+(This is inspired from functional programming jargon
+cf. https://github.com/hemanth/functional-programming-jargon)
 
-* How to contribute
+**How to contribute**
 
-Each item in the glossary must:
+You can:
 
 - fix spelling and grammar
 - link to wikipedia
@@ -21,7 +21,7 @@ Each item in the glossary must:
 - refer to other terms with an explanations
 - link to scientific papers and/or free course materials
 
-Translations
+**Translations**
 
 - Make a PR
 
@@ -259,3 +259,5 @@ range of human cognitive abilities.
 # Word embedding
 # Word segmentation
 # Word sens disambiguation
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
