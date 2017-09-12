@@ -77,6 +77,7 @@ You can:
 - [Named Entity Recognition](#named-entity-recognition)
 - [Native-language identification](#native-language-identification)
 - [Natural Langage Generation](#natural-langage-generation)
+- [Natural Langage Forms](#natural-langage-forms)
 - [Natural Langage Understanding](#natural-langage-understanding)
 - [Natural language search](#natural-language-search)
 - [Natural language user interface](#natural-language-user-interface)
@@ -210,6 +211,14 @@ range of human cognitive abilities.
 # Morphological segmentation
 # Named Entity Recognition
 # Native-language identification
+# Natural Langage Forms
+
+It's forms with holes or hunks. The user is requested inline to answer
+in inputs the value associated with the described text. It's called a
+quiz in [WikiQuiz](https://github.com/alexgreene/WikiQuiz). Natural
+language forms is web design practice that request user input in the
+forms of quiz.
+
 # Natural Langage Generation
 # Natural Langage Understanding
 # Natural language search
@@ -224,7 +233,7 @@ range of human cognitive abilities.
 # Question/Answering
 # Reading comprehension
 # Relational
-# Relational 
+# Relational
 # Relational Grammar
 # Relationship extraction
 # Rules
@@ -243,7 +252,7 @@ range of human cognitive abilities.
 # Stocastic Grammar
 # Subsumption
 # Supervised learning
-# Systems architecture 
+# Systems architecture
 # Text mining
 # Text proofing
 # Text simplification
